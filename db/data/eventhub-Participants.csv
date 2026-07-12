@@ -1,0 +1,5 @@
+ID,firstName,lastName,email,company
+5c0a0001-0000-0000-0000-000000000001,Nino,Beridze,nino.beridze@example.com,LeverX
+5c0a0001-0000-0000-0000-000000000002,Giorgi,Kapanadze,giorgi.k@example.com,Acme Corp
+5c0a0001-0000-0000-0000-000000000003,Ana,Lomidze,ana.lomidze@example.com,Globex
+5c0a0001-0000-0000-0000-000000000004,Luka,Tsereteli,luka.t@example.com,Initech
